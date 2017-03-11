@@ -1,5 +1,6 @@
 # hello-world
-Learning to use github
+Refresh coding skills 
 
-Hi, I have been using git at work for a while now. But we always follow a cheatsheet to get the work done in GIT. I am now here to learn GIT properly and understand why I do what to submit my code, and also to code my own small projects to learns various design patterns is OOP and more! 
+Took a break from work, and now want to get back. Using git to refresh coding skills in c++ and learn more.
+
 
